@@ -16,6 +16,8 @@ function App() {
               <div className="img-layer layer-front" style={{backgroundImage: `url(${})`}}></div>
               <div className="img-layer layer-front" style={{backgroundImage: `url(${})`}}></div>
               <div className="img-layer layer-front" style={{backgroundImage: `url(${})`}}></div>
+              <div className="img-layer layer-front" style={{backgroundImage: `url(${})`}}></div>
+
 
 
 
